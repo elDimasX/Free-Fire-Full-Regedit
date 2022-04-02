@@ -1,7 +1,7 @@
 # Free Fire Full & Regedit
-Esse programa já me rendeu muita experiencia, junto com histórias pra contar, foi incrível haha!\n
-Mas eu sinceramente, já desisti dele faz um tempo, e espero que você o possa achar útil, por isso estou disponibilizando ele aqui\n
-Por favor, não o use para fins maliciosos, eu só quero progagar meu conhecimento aqui\n
+Esse programa já me rendeu muita experiencia, junto com histórias pra contar, foi incrível haha!\r
+Mas eu sinceramente, já desisti dele faz um tempo, e espero que você o possa achar útil, por isso estou disponibilizando ele aqui\r
+Por favor, não o use para fins maliciosos, eu só quero progagar meu conhecimento aqui\r
 
 ## Royal Full
 O Royal Full é um painel completo com muitos cheats, você pode ativar no BlueStacks 4 e outros (não funciona para 5)
@@ -16,5 +16,5 @@ Eu inclui a conexão com o banco de dados MongoDB, mas eu a desabilitei aqui, se
 ![2022-04-02 (1)](https://user-images.githubusercontent.com/51800283/161397572-4338feed-bc42-4d31-a10e-55951a16d961.png)
 
 ## Últimos avisos
-Novamente, não use isso para ganho pessoal ou interferir nos jogos dos outros, isso é ilegal!\n
+Novamente, não use isso para ganho pessoal ou interferir nos jogos dos outros, isso é ilegal!\r
 Use para ver e entender o código, como funciona, e tudo mais, se divirta, mas não atrapalhe
