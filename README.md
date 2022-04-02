@@ -12,7 +12,8 @@ O Royal Regedit é um painel com várias opções de regedit, essas regedits con
 
 ## Conexão com o MongoDB
 Eu inclui a conexão com o banco de dados MongoDB, mas eu a desabilitei aqui, se você quiser, você pode reativar apenas ajustando algumas coisas
-![2022-04-02 (1)](https://user-images.githubusercontent.com/51800283/161397572-4338feed-bc42-4d31-a10e-55951a16d961.png)
+![161397572-4338feed-bc42-4d31-a10e-55951a16d961](https://user-images.githubusercontent.com/51800283/161398067-684ffa4c-b370-4053-b2a6-50623d4231f2.png)
+
 
 ## Últimos avisos
 Novamente, não use isso para ganho pessoal ou interferir nos jogos dos outros, isso é ilegal!<br/>
