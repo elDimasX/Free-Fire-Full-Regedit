@@ -1,2 +1,0 @@
-antes de abrir no visual studio, extraia os arquivos packages.rar para a pasta
-eu compactei para fazer o upload no github
