@@ -2,6 +2,10 @@
 Esse programa já me rendeu muita experiencia, junto com histórias pra contar, foi incrível haha!<br/>
 Mas eu sinceramente, já desisti dele faz um tempo, e espero que você o possa achar útil, por isso estou disponibilizando ele aqui<br/>
 Por favor, não o use para fins maliciosos, eu só quero progagar meu conhecimento aqui<br/>
+
+## Atualização
+Eu removi o MongoDB do projeto, portanto, você precisa inclui-ló manualmente e do zero
+
 ## Royal Full
 O Royal Full é um painel completo com muitos cheats, você pode ativar no BlueStacks 4 e outros (não funciona para 5)
 ![2022-04-02](https://user-images.githubusercontent.com/51800283/161397347-ee370605-e1a4-4253-802d-503ffb5850ac.png)
